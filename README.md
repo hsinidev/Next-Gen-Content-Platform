@@ -7,7 +7,7 @@ A professional, high-performance landing page for an AI-powered content generati
 
 ## 🚀 Live Demo
 
-**[doodax.com](https://doodax.com)** 
+**[doodax.com](https://doodax.com/tools/next-gen-content-platform/index.html)** 
 _(Opens in a new tab)_
 
 ---
